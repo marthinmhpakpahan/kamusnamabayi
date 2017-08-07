@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:padding="10dp"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:src="@drawable/ic_exit_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_margin="10sp"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:text="Apakah anda yakin ingin keluar dari aplikasi ini ?"
+        android:id="@+id/textDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <LinearLayout
+        android:weightSum="2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:layout_weight="1"
+            android:id="@+id/btnNo"
+            android:layout_margin="10sp"
+            android:background="@drawable/rounded_item_list_song_gray"
+            android:textAllCaps="false"
+            android:text="Tidak"
+            android:layout_width="0sp"
+            android:layout_height="wrap_content" />
+        <Button
+            android:layout_weight="1"
+            android:id="@+id/btnYes"
+            android:layout_margin="10sp"
+            android:background="@drawable/rounded_item_list_song_gray"
+            android:textAllCaps="false"
+            android:text="Ya"
+            android:layout_width="0sp"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+</LinearLayout>

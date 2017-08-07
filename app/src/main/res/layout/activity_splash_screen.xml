@@ -22,13 +22,13 @@
             android:textStyle="bold"
             android:textSize="30dp"
             android:textAlignment="center"
-            android:text="KAMUS BAYI"
+            android:text="KAMUS NAMA BAYI"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <TextView
             android:textStyle="bold"
             android:textAlignment="center"
-            android:text="Created By. Ayu Siahaan"
+            android:text="Created By. Ayu Permatasari Siahaan"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
     </LinearLayout>

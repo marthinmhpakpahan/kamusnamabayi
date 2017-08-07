@@ -1,126 +1,946 @@
-Abbad - Tekun beribadah
-Abbas - Singa
-Abduh - Hamba-Nya
-Abdulah, Abdullah - Hamba Allah
-Abdul Alim - Hamba dari Yang Maha Tahu
-Abdul Aliyy - Hamba dari Yang Maha Tinggi
-Abdul Azim - Hamba dari Yang Maha Agung
-Abdul Aziz - Hamba dari Yang Maha Perkasa
-Abdul Bari - Hamba dari Sang Pembuat
-Abdul Basit - Hamba dari Yang Maha Dalam
-Abdul Fattah - Hamba dari Sang Pembuka (rahmat)
-Abdul Ghoffar, Abdul Ghafur - Hamba dari Sang Pengampun
-Abdul Hadi - Hamba dari Sang Pemberi Petunjuk
-Abdul Hafiz - Hamba dari Sang Penjaga
-Abdul Hakam - Hamba dari Sang Penetap Hukum
-Abdul Hakim - Hamba dari Yang Maha Bijaksana
-Abdul Halim - Hamba dari Yang Maha lembut
-Abdul Hamid - Hamba dari Yang Maha Terpuji
-Abdul Haqq - Hamba dari Yang Maha Benar
-Abdul Hasib - Hamba dari Sang Penghitung
-Abdul Jabbar - Hamba dari Yang Maha Kuat
-Abdul Jalil - Hamba dari Yang Maha Perkasa
-Abdul Karim - Hamba dari Yang Maha Pemurah
-Abdul Khaliq - Hamba dari Sang Pencipta
-Abdul Latif - Hamba dari Yang Maha Halus
-Abdul Malik - Hamba dari Maha Segala Raja
-Abdul Majid - Hamba dari Yang Maha Hebat
-Abdul Matin - Hamba dari Yang Maha Kuat
-Abdul Muhaimin - Hamba dari Sang Penjaga
-Abdul Mu’izz - Hamba dari Pemberi Kemenangan
-Abdul Mujib - Hamba dari Sang Pemberi
-Abdul Muta’al - Hamba dari Yang Paling Tinggi
-Abdul Nasser - Hamba dari Sang Penolong
-Abdul Nasir - Hamba dari Sang Penolong
-Abdul Qadir - Hamba dari Sang Pemberi ketetapan
-Abdul Qahhar - Hamba dari Sang Pemaksa
-Abdul Quddus - Hamba dari Yang Maha Suci
-Abdul Rafi - Hamba dari Sang Peninggi (derajat)
-Abdul Rahim - Hamba dari Yang Maha Penyayang
-Abdul Rahman - Hamba dari Yang Maha Pengasih
-Abdul Rashid - Hamba dari Sang Pemberi Jalan Kebenaran
-Abdul Ra’uf - Hamba dari Sang Pengampun
-Abdul Razzaq - Hamba dari Sang Pemberi Rizki
-Abdul Sabur - Hamba dari Yang Maha Penyabar
-Abdul Salam - Hamba dari Yang Maha Damai
-Abdul Samad - Hamba dari Yang Maha Kekal
-Abdul Sami - Hamba dari Sang Pendengar
-Abdul Shakur - Hamba dari Sang Penyukur
-Abdul Tawwab - Hamba dari Yang Maha Pengampun
-Abdul Wadud - Hamba dari Sang Pencinta
-Abdul Wahhab - Hamba dari Sang Pemberi
-Abdul Wahid - Hamba dari Yang Maha Esa
-Abid - Hamba yang beribadah
-Abidin - Hamba-hamba, ahli ibadah
-Abiyy - Penuh kehormatan dan kemuliaan diri
-Abrar - Golongan yang berbuat kebaikan
-Abu Bakar - Nama sahabat Rasulullah SAW
-Adham - Tali rantai, Peninggalan kuno
-Adib - Beradab, Sastrawan
-Adil - Persamaan, kesataraan, adil
-Adli - Bersifat setara, adil
-Adnan - Penduduk, pemukim
-Afdhal - Paling banyak keutamaan dan kemuliaannya
-Affan - Menjaga diri dari yang tak halal
-Afi - Pengampun 66. Afif - Punya harga diri
-Aflah - Lebih sukses
-Aghlab - Sering menang
-Ahmad - Terpuji, Salah satu nama Rasulullah SAW
-Ahnaf - Orang yang lurus, lebih suci
-Ahsan - Orang yang paling utama
+Aabidah - Tekun beribadah
+Aathifah - Pemberian
+Abdad - Tekun beribadat
+Abdiel - Hamba Allah
+Abidah - Beradab
+Adara - Cantik
+Adawiyah - Seorang wanita sufi
+Adelard - Gagah berani
+Adelia - Mulia
+Adelio - Pangeran mulia
+Adena - Indah
+Adib - Budayawan
+Adiel - Hiasan
+Adira - Kuat
+Adli - Bijaksana
+Adney - Pulau bangsawan
+Adom - Bantuan dari Tuhan
+Adonia - Cantik
+Adonis - Sangat menarik
+Adoria - Tercinta
+Adora - Yang tercinta
+Adrienne - Kaya
+Adsila - Berbunga
+Afrah - Kegembiraan
+Agni - Dewa api
+Aidan - Bersemangat
+Aiko - Tercinta
+Aimee - Tercinta
+Ainiyah - Pohon rimbun bersemi
+Akash - Langit
+Akemi - Senja hari
 Akhdan - Sahabat
-Akif - Beritikaf
-Akil - Berakal
-Akmal - Lengkap, Sempurna
-Akram - Sangat dermawan, lebih Mulia
-Ala - Tinggi, mulia
-Al Baihaqi - Imam perawi hadist
-Ali - Tinggi
-Alif - Orang yang senang dengan manusia dan disenangi
-Alim - Berilmu
-Althaf - Llembut
-Amid - Pemimpin
-Amin - Pemegang amanat, Terpercaya
-Amir - Memakmurkan, pemimpin
-Amjad - Lebih mulia, sangat hebat
-Ammar - Pembangun
-Amrullah - Perintah Allah
-Anas - Mesra, periang
-Anis -Sopan
-Anjab - Berharga
-Anmar - Murni, bermanfaat, kebaikan dan kesehatan
-Anshar - Penolong, kaum anshar sahabat nabi SAW
-Anwar - Cahaya, sinar
-Aqib - Balasan yang baik
-Aqil - Berakal, cerdas
-Arafat - Padang Arafah
-Arib - Cerdas
-Arif - Tahu, bijaksana
-Arij - Wangi, harum
-Arkan - Orang yang kuat
-As’ad - Bahagia
-Asad - Singa
-Ashim - Pemimpin yang mulia
-Asif - Pemaaf
-Asim - Pelindung, penjaga
-Aslam - Selamat
-Aswad-Hitam
-Asyfaq - Lebih baik dan sehat
-Asyja’ - Sangat pemberani
-Asyraf - Lebih mulia
-Atha - Anugerah, pemberian, rezeki
-Aththabarani - Imam perawi hadist
-Attirmidzi - Imam perawi hadist
-Atif - Simpatik
-Atqa - Orang yang lebih bertakwa
-Aufa - Lebih tepat
-Aun - Pertolongan
-Awad - Hadiah
-Awwab - Senang bertaubat
-Ayman - Beruntung, Sebelah Kanan
-Ayub - Nama seorang Nabi
-Aza - Sejuk, Tenang
-Azhar - Yang cerah bercahaya, lebih cerah
-Aziz - Orang yang kuat
-Azka - Orang yang paling bersih dan suci
-Azmi - Keteguhan hati
+Akins - Gagah berani
+Akmal - Sempurna
+Aksel - Tokoh perdamaian
+Alana - Damai
+Alanza - Ambisius
+Albern - Bangsawan
+Albern - Gagah berani
+Alden - Pelindung yang bijaksana
+Aldwin - Teman lama
+Algis - Tombak
+Alib - Yang lemah lembut
+Alifah - Ramah tamah
+Alina - Terang
+Aline - Jujur
+Alisha - Mulia
+Almasah - Batu mulia
+Almeta - Ambisius
+Alvaro - Bijaksana
+Alvina - Sahabat
+Alvis - Mengetahui segalanya
+Amabel - Baik hati
+Amada - Tersayang
+Amandla - Tersayang
+Amanullah - Keamanan dari Tuhan
+Amany - Cita-cita
+Amany - Harapan
+Amato - Tercinta
+Ambrose - Abadi
+Ames - Sahabat
+Aminah - Dapat dipercaya
+Amira - Ungkapan
+Amira - Putri bangsawan
+Andros - Laut
+Anevay - Pemimpin
+Anisah - Teman penghibur
+Anisah - Lemah lembut
+Anjali - Penghormatan
+Anjana - Perintah
+Annora - Cahaya
+Ansel - Orang suci
+Antares - Raksasa
+Anthea - Bunga
+Anthea - Dewi kebajikan
+Antonite - Remaja
+Anwar - Lebih jelas
+Anya - Penuh keagungan
+Apuila - Rajawali
+Araminta - Harum seperti bunga
+Ararya - Golongan bangsawan
+Archard - Sakti dan sangat kuat
+Ardell - Tekun
+Ardelle - Sangat antusias
+Ardelle - Hangat
+Ardelle -` Tekun
+Ardhani - Suci
+Ardith - Kebun bunga
+Areta - Gadis yang bijak
+Arhab - Memanjakan
+Ariane - Kudus
+Arij - Bau yang sedap
+Ariti - Perunggu
+Armila - Gelang
+Arnawama - Samudra
+Arsa - Kegembiraan
+Aruna - Merah
+Arvin - Pengembala
+Arvin - Sahabat
+Aryasatya - Kemuliaan
+Bahijah - Sukaria
+Bahirah - Disegani orang
+Bahy - Yang tampan
+Balakosa - Kekuatan dan kejayaan
+Balin - Prajurit kehormatan
+Baluku - Beruang yang sangat kuat
+Banjiro - Menikmati ketenangan
+Baqir - Yang berilimu
+Bari'ah - Cantik
+Bariq - Kemilau
+Barnes - ekerja keras
+Bashirah - Berakal
+Basil - Singa
+Basimah - Selalu tersenyum
+Bassam - Yang banyak tersenyum
+Basyirah - Kabar kegembiraan
+Basyirah - Pemberi kabar gembira
+Bawika - Bermaksud baik
+Bayanaka - Luar biasa
+Bazyli - Raja | Laki-laki
+Belicia - Abdi Tuhan
+Belva - Purnama anak yang indah
+Belva - Jujur
+Berly - Mutiara hijau lautan
+Bernessa - Pemberani
+Bertin - Sahabat yang istimewa
+Berwin - Teman prajurit
+Berwyn - Anak kesayangan
+Berwyn - Teman yang setia
+Beryl - Permata yang berharga
+Bhadra - Selamat
+Bhadrika - Gagah berani
+Birney - Penghuni pulau
+Blenda - Penuh kemewahan
+Blythe - Bahagia
+Bonaro - Sahabat
+Bryna - Penuh kebajikan
+Buckley - Padang rumput rusa
+Buntala - Tombak tajam
+Burairah - Berbuat baik
+Byakta - Nampak nyata
+Cadudasa - Cemerlang
+Callysta - Kecantikan yang luar biasa
+Calya - Tanpa cacat
+Camilo - Sang pembebas
+Candida - Putih terang
+Carissa - Anggun
+Carlen - Sikuat
+Carlene - Kuat
+Carlin - Si juara kecil
+Carney - Kejayaan
+Carney - Pejuang
+Carola - Siap bertempur
+Cascata - Air terjun
+Casey - Gagah berani
+Casimira - Pembawa perdamaian
+Cathilin - Mata yang indah
+Catra - Payung kebesaran raja
+Catriona - Murni sejati
+Celena - Bintang
+Celesta - Surga
+Celestyn - Surga
+Cetta - Berpengetahuan luas
+Changyi - Terbuka dan bermurah hati
+Charemon - Semangat bergembira
+Charis - Anggun
+Chastine - Murni sejati
+Chenoa - Burung merpati putih
+Chesna - Tenteram
+Chiara - Terkenal
+Chiko - Panah
+Chindaga - Pandan wangi
+Chumani - Titik-titik embun
+Cicely - Musik
+Cira - Matahari
+Clarance - Sangat terkenal
+Clarinta - Sikecil yang termashur
+Clearesta - Puncak kemuliaan
+Cleine - Terkenal
+Cleon - Terkenal
+Cleonima - Nama anak yang jaya
+Cleosa - Terkenal
+Clianta - Bunga kemenangan
+Clorinda - Terkenal karena Kecantikannya
+Cloris - Bunga yang wangi
+Clovis - Perajurit terkenal
+Cmille - Keagungan
+Conan - Yang terkenal
+Conary - Bijaksana
+Concordia - Harmoni
+Concordia - Selaras
+Cordelia - Hangat
+Cordelia - Baik hati
+Cosmo - Harmoni
+Cottina - Mahkota bunga
+Curtina - Menyatukan
+Cyma - Keanggunan
+Dagna - Bersinar-sinar
+Dahayu - Cantik
+Daiva - Dewa
+Dakari - Bahagia
+Daksayini - Dewi padi
+Daliyah - Pohon anggur
+Damara - Gadisyang cantik
+Damita - Bangsawan kecil
+Danadyaksa - Penjaga kejayaan
+Danah - Batu mulia
+Danakitri - Kemasyuran
+Danella - Istri yang bijaksana
+Darda - Mutiara kebijaksanaan
+Darlene - Yang sangat dicintai
+Darpa - Kebanggaan
+Darrell - Belahan jiwa
+Darrell - Kekasih
+Davu - Awal
+Dayita - Kekasih
+Deana - Surga
+Deana - Kahyangan
+Delmora - Laut
+Delvin - Teman yang biasa
+Demas - Orang yang populer
+Demetria - Penutup bumi
+Dennis - Dewa anggur
+Deron - Milik Tuhan
+Deshi - Makmur
+Deven - Untuk Tuhan
+Devin - Puisi
+Dhahir - Lembah yang indah
+Didrika - Pemimpin
+Digdaya - Penakluk
+Dihyan - Matahari
+Dimas (z) - Yang Terkasih
+Diwei - Berorientasi jelas
+Dobry - Baik hati
+Dolores - Sedih
+Donahue - Prajurit yang tangguh
+Donatien - Hadiah
+Dongsheng - Matahari terbit
+Dorinda - Hadiah
+Durriyah - Cahaya mutiara
+Dyani - Rusa
+Dzakwan - Sangat cerdas
+Dzakwan - Harum semerbak
+Dzaky - Cerdas
+Earlene - Wanita yang agung
+Edgina - Lahir untuk kaya
+Edsel - Pemikirannya cermat
+Eldora - Hadiah kebijaksanaan
+Eleanor - Cahaya
+Elfreda - Agung dan bijaksana
+Elfrida - Damai
+Elfrida - Tentram
+Ellard - Berani
+Elma - Buah yang manis
+Elora - Terang
+Elpida - Harapan
+Elroy - Milik raja
+Elsdon - Bukit bangsawan
+Elvaretta - Kebajikan
+Elvia - Pemikirannya giat
+Elvina - Ramah dan bijaksana
+Elysia - Dari surga
+Emery - peminpin yang baik hati
+Engrasia - Anggun
+Enzi - Maha perkasa
+Erasma - Hasrat
+Eratus - Yang terkasih
+Erland - Rajawali perkasa
+Erlinda - Lincah
+Erling - Putra bangsawan
+Ermina - Agung
+Erol - Gagah berani
+Ervanthe - Prajurit muda
+Ethana - Kuat
+Eustacia - Subur
+Evania - Penurut
+Evanthe - Bunga yang indah
+Faadhilah - Yang mulia
+Fadey - Keberanian
+Fadhilah - Kemuliaan
+Fakhirah - Kebanggaan
+Fakinah - Buah
+Fallon - Cucu penguasa
+Farand - Menyenangkan
+Farhan - Bergembira
+Farhanah - Bergembira
+Farica - Penuh kedamaian
+Farrell - Heroik
+Faste - Kokoh
+Fathi - Pembuka
+Fathinah - Cerdas
+Fausta - Keberuntungan
+Faustine - Beruntung
+Fauziyyah - Yang beruntung
+Fawnia - Yang berharga
+Fawwaz - Mendapat keberuntungan
+Fayola - Beruntung
+Fedora - Pemberian Tuhan
+Felda - Ilham
+Fengguang - Bersemangat menyala-nyala
+Fengying - Pintar dan cerdik
+Feodora - Anugerah Tuhan
+Ferris - Sekeras batu karang
+Fidela - Wanita yang jujur
+Fidelya - Bisa dipercaya
+Filbert - Sangat pandai
+Filia - Peminpin yang baik hati
+Fiorenza - Bunga
+Freda - Damai
+Fredelina - Bijaksana
+Fredella - Pembawa kedamaian
+Frederika - Penuh kedamaian
+Frieda - Perdamaian
+Frodine - Teman yang bijaksana
+Fruma - Satu iman
+Gadi - Tuhan adalah penuntunku
+Galen - Tenang
+Galena - Penyembuh penyakit
+Galeno - Mendapat pencerahan
+Ganendra - Pasukan dewa
+Gantari - Menyinari
+Gaoqi - Berintegritas tinggi
+Gaozhan - Berwawasan bagus
+Garini - Istiri yang baik
+Garneta - Permata merah
+Garwita - Bangga sekali
+Gatawati - Telaga
+Gavin - Garuda putih
+Gaviota - Burung camar
+Gavrila - Tuhan sumber kekuatanku
+Gene - Keturunan bangsawan
+Gentala - Naga
+Ghadah - Wanita yang lembut
+Ghufron - Pengampunan
+Gilda - Berselimut emas
+Gladwin - Riang gembira
+Godwin - Sahabat Tuhan
+Gonza - Kasih sayang
+Grania - Cinta yang mesra
+Grimonia - Wanita yang patut dimuliakan
+Griselda - Gadis yang gigih
+Gustin - Agung
+Gyala - Masa muda
+Habibah - Kekasih
+Habibah - Tersayang
+Habibah - Kesayanganku
+Habibi - Kesayanganku
+Hadrian - Laki-laki dari samudra
+Hafidhah - Pemelihara
+Hagan - Pertahanan yang kokoh
+Hagon - Awet muda
+Haibah - Berwibawa
+Haidar - Pemberani
+Haidar - Singa
+Haiyun - Berbudi mulia
+Hakimah - Arif dan bijaksana
+Haldis - Bersemangat baja
+Haley - Pribumi
+Hali - Laut
+Halona - Beruntung
+Hamamah - Burung merpati
+Hamdan - Yang banyak pujian
+Hamdi - Pujian
+Hamilah - Sabar dan berakal
+Hana' - Kekayaan tanpa payah
+Hanan - Kasih sayang
+Hanan - Kelembutan hati
+Hanbal - Murni
+Handaru - Meteor
+Hannah - Penuh keagungan
+Hansa - Angsa
+Haocun - Agung
+Hara - Untaian mutiara
+Harding - Putera sang pemberani
+Harina - Kijang
+Haruko - Kelahiran pertama
+Haruni - Puncak
+Hasna - Cantik
+Hasna - Molek
+Hauda - Burung kasuari
+Hazimzh - Wanita yang sangat teliti
+Hector - Tabah
+Hedona - Cahaya yang terang
+Hedva - Kegembiraan
+Hedy - Manis
+Hedy - Menyenangkan
+Helga - Alim
+Helga - Saleh
+Helga - Suci
+Helonia - Bunga bakung
+Helsa - Diberikan pada Tuhan
+Hepziba - Kecintaan
+Hermes - Pembawa pesan
+Herwit - Sangat cerdik
+Hesperos - Bintang timur
+Hieu - Terhormat
+Hillel - Bulan baru
+Hindun - Sahabat wanita
+Hira - Intan
+Hiromasa - Adil
+Hisyam - Kemurahan
+Honesto - Jujur
+Hongli - Sekeras karang
+Honora - Yang terhormat
+Hoshi - Bintang
+Hoshiko - Bintang
+Hototo - Hakim
+Huajin - Bermoral mulia
+Huanran - Punya watak riang
+Huberta - Berjiwa terang
+Huga - Intelek
+Humam - Besar ambisinya
+Huriyah - Bidadari surga
+Huriyah - Wanita yang cantik
+Huwaida - Lemah lembut
+Hylmi - Penyabar
+Ibtisamah - Senyum
+Imad - Arus utama
+Inas - Baik hati
+Indurasmi - Sinar rembulan
+Iniko - Lahir dimasa sulit
+Iolana - Meluncur seperti elang
+Ipyana - Murah hati
+Irmadel - Gadis bangsawan
+Isadora - Dewi tertinggi
+Isaura - Udara yang sejuk
+Ivander - Laki -laki yang terbaik
+Jabulani - Bahagia
+Jacinda - Cantik dan menarik
+Jamilah - Cantik rupawan
+Janitra - Berderajat tinggi
+Jareb - Perjuangan
+Jarvis - Ahli menggunakan tombak
+Jauhar - Permata
+Jauharah - Mutiara
+Jauza - Bntang gemini
+Javas - Cekatan
+Jawad - Pemurah
+Jawahir - Mutiara
+Jayasri - Kemenangan yang cemerlang
+Jeconia - Hadiah dari Tuhan
+Jerolin - Suci
+Jevera - Kehidupan
+Jianheeng - Gigih dan tabah
+Jianying - Giat dan penting
+Jiaya - Lemah gemulai
+Jiazhen - Melestarikan bisnis keluarga
+Jibon - Kehidupan
+Jierui - Berpikir cepat
+Jili - Sukses dalam karir
+Jimi - Pengganti
+Jingmi - Menghargai orang
+Jingyi - Bersikap terpuji
+Jinxiu - Masa depan gemilang
+Jivin - Pencari nafkah
+Joachim - Tuhan akan menentukan
+Jomei - Sinar yang menyebar
+Jonea - Keagungan
+Jorell - Dia yang menyelamatkan
+Jovita - Periang
+Jovita - Baik hati
+Jovita - Kebahagian
+Julinka - Kelihatan muda
+Juman - Mutiara
+Jun - Kebenaran
+Juro - Harapan terbaik
+Justine - Adil
+Justis - Tidak berat sebelah
+Juvenal - Anak muda
+Kaemon - Riang gembira
+Kagami - Cermin
+Kahraman - Pahlawan
+Kaia - Bumi
+Kaibo - Berpengetahuan luas
+Kaila - Mahkota
+Kaili - Mendambakan kemakmuran
+Kaipo - Kekasih
+Kalani - Langit
+Kalani - Kepala suku
+Kalani - Surga
+Kalea - Terang
+Kalei - Rangkaian bunga
+Kalena - Murni
+Kalifa - Suci
+Kalifa - Murni
+Kalinda - Matahari
+Kalpana - Tercipta
+Kalyca - Kuncup bunga mawar
+Kamala - Teratai
+Kamau - Perajurit yang perkasa
+Kamazu - Obat
+Kamea - Mulia
+Kamini - Wanita penuh kasih sayang
+Kanaka - Emas
+Kangjian - Murah hati dan tegap
+Kanoa - Bebas
+Kapono - Adil
+Kara - Sinar cahaya
+Karimah - Murah hati
+Kasimir - Tenteram
+Kastara - Termashur
+Kasyapi - Bumi
+Kavindra - Pujangga
+Kawena - Kemilau
+Kawindra - Rajanya pujangga
+Kayana - Dermawan
+Keiko - Anak kecil yang bahagia
+Kendrick - Kepala istana
+Kennard - Kapten yang gagah berani
+Kentaro - Laki-laki dewasa
+Kenward - Berani
+Kenzie - Peminpim yang bijaksana
+Keola - Kehidupan
+Keziah - Bumbu seperti kayu manis
+Khairullah - Kebaikan dari Allah
+Khalida - Abadi
+Khalidah - Abadi
+Khalil - Kesayanganku
+Khalish - Murni
+Khamilah - Beludru
+Khansa - Wanita yang baik
+Khazhim - Dapat mengekang amarah
+Khulud - Keabadian
+Kineta - Enerjik
+Kostya - Tetap
+Kusuma - Bunga
+Kynthia - Dewi bulan
+Labibah - Cerdas
+Lajain - Perak
+Laksita - Terkenal
+Lalasa - Kasih sayang
+Lamont - Ahli hokum
+Lan - Bunga
+Lander - Manusia singa
+Landra - Pembingbing
+Landry - Penguasa
+Langundo - Tenang
+Lareina - Ratu
+Larrimore - Pembuat baju besi
+Laszlo - Penguasa yang terkenal
+Lateef - Menyenangkan
+Lauda - Pujian
+Lavina - Disucikan
+Lavina - Sinar yang terang
+Lawana - Samudra
+Layana - Mengalir terus
+Leandra - Seperti seekor singa
+Leif - Kepercayaan
+Leilani - Bunga surga
+Leroy - Raja
+Leverrett - Kelinci muda
+Lian - Tenang dan masuk akal
+Liangyi - Baik dan ramah
+Lianxiang - Iba dan lembut pada wanita
+Liiu Yaoshan - Terhormat
+Liqi - Menang dalam sekejab
+Lishan - Tenang dan kalem
+Lituhayu - Cantik rupawan
+Liu Changhai - Melimpah seperti laut
+Liu Xingsheng - Makmur dan melimpah ruah
+Lixui - Salju putih
+Lucretia - Kaya
+Luigi - Pejuang
+Luluah - Mutiara
+Luthfi - Lembut
+Luvena - Tercinta
+Mackinnley - Putera penguasa
+Mada - Kegembiraan
+Magdala - Kegembiraan
+Magena - MenjeLang bulan purnama
+Magnus - Agung
+Mahadri - Gunung besar
+Mahasura - Pejuang besar
+Mahawira - Pahlawan besar
+Maheswara - Raja besar
+Mahib - Orang yang karismatik
+Mahija - Putra bumi
+Mahrus - Yang dijaga
+Majdi - Kemuliaan
+Makarim - Bersifat mulia
+Malca - Ratu
+Mali - Bunga melati
+Malya - Rangkaian bunga
+Manuela - Tuhan beserta kita
+Manyari - Serangkaian bunga
+Manyura - Burung merak
+Maribel - Cantik
+Maritza - Mendapat berkat ilahi
+Marlen - Burung elang
+Marva - Bagus sekali
+Marva - Sungguh indahy
+Masao - Kebenaran
+Masato - Keadilan
+Maska - Maha perkasa
+Masou - Api Tuhan
+Mas'ud - Bahagia
+Maxine - Yang terbesar
+Maynard - Maha perkasa
+Maysun - Cantik
+Mayyadah - Yang bergoyang-goyang
+Meara - Riang gembira
+Medea - Memerintah
+Megara - Pertama
+Mehadi - Bunga
+Mehri - Baik hati
+Mehri - Hari cerah
+Meiying - Bunga yang indah
+Melba - Lembut
+Melba - Langsing
+Melvin - Sobat kental
+Mengda - Berpikiran cerdas
+Menur - Bunga melati
+Meredith - Pelindung lautan
+Meriel - Lautan bersinar cerah
+Messina - PInggang ramping
+Milada - Kekasihku
+Mingde - Bereputasi bagus
+Minowa - Penyanyi
+Moana - Aroma
+Moria - Pilihan Tuham
+Morie - Pantai
+Moyna - Lembut dan halus
+Moza - Air Anggur
+Mubarak - Yang diberkati
+Mudrik - Berakal
+Mufrih - Orang yang membuat gembira
+Mugisa - Beruntung
+Muhana - Tenang
+Muhana - Damai
+Muhsin - Yang berbuat kebaikan
+Mukasa - Orang kepercayaan Tuhan
+Mukhbit- Tunduk patuh
+Mulin - Persahabatan erat
+Mumtazah - Lebih unggul dari yang lain
+Muntashir - Yang menang
+Nabiha - Cerdas
+Nabiha - Cerdik
+Nabila - Keturunan bangsawan
+Nadine - Penuh harapan
+Naeem - Mempesona
+Najdah - Kekuatan
+Nalani - Seindah bunga
+Nara - Bahagia
+Nara - Pohon oak
+Nararya - Yang dimuliakan
+Narda - Kebahagiaan
+Nareswari - Permaisuri
+Naryama - Pemimpin
+Nash - Karang yang terjanl
+Nashif - Adil
+Nasnan - Penyanyi
+Natha - Pelindung
+Nathania - Pemberian Tuhan
+Naufal - Pemuda tampan
+Naufal - Dermawan
+Nawwar - Pemberi cahaya
+Nazhimah - Kumpulan mutiara
+Neila - Juara
+Nesha - Murni
+Neva - Salju
+Ningdei - Tenang dan anggun
+Nirwasita - Bijaksana
+Niscala - Kokoh
+Nismara - Penuh ketenangan
+Nitisara - Bijaksana
+Nohan - Merasa bahagia
+Nuria - Cahaya Tuhan
+Obadiah - Pelayan Tuhan
+Obadiah - Abdi Tuhan
+Odelia -Pewaris
+Odell - Melodi
+Odina - Gunung
+Ofira - Emas
+Okalina - Surga
+Okechuku - Pemberian Tuhan
+Olinda - Harum bunga
+Olubayo - Kebahagian yang tak terkira
+Ophir - Dapat dipercaya
+Orea - Pegunungan
+Orela - Keputasan para dewa
+Oriana - Matahari terbit
+Oriana - Waktu fajar
+Oriana - Keemasan
+Orlando - Terkenal ke penjuru negeri
+Orlin - Berkilau keemasan
+Ormanda - Bangsawan
+Osahar - Tuhan maha mendengar
+Osborn - Beruang yang sangat kuat
+Osmond - Pelindung yang perkasa
+Osric - Penguasa yang terkenal
+Oswald - Kekuasaan Tuhan
+Padali - Bunga cempaka
+Padmarini - Indah dan tajam
+Padmini - Wanita ulung
+Palawa - BersemI
+Panyun - Berprestasi tinggi
+Parabawa - Mencintai orang
+Parama - Paling unggul
+Parisya - PerisaI
+Partaya - Yang terpercaya
+Pasada - Cincin
+Pasha - Laut
+Pastika - Kristal
+Pawana - Angin
+Peiyu - Murni dan soleh
+Penrod - Komandan yang terkenal
+Perlita - Mutiara
+Phaedra - Terang
+Phalosa - Bercahaya
+Philemon - Ciuman
+Pirata - Jiwa
+Pragata - Cepat
+Prawara - Paling terkemuka
+Prayata - Bersifat saleh
+Purbani - Rendah sekali
+Qabil - Cakap
+Qiancheng - Masa depan cerah
+Qiaofeng - Gesit dan cantik
+Qibo - Berbakat langka, haus ilmu
+Qionglin - Pohon salju
+Qisheng - Enerjik dengan suara nyaring
+Qixuan - Bersikap mengesankan
+Qosiim - Yang molek
+Quentin - Mendambakan masa depan
+Quinlan - Berperawakan yang bagus
+Qujing - Kaya tujuh turunan
+Quon - Cerdas, Terang
+Rabiah - Subur
+Rabihah - Yang beruntung
+Radella - Penasihat
+Radinka - Senang
+Radithya - Matahari
+Radmila - Bekerja untuk rakyat
+Radoslaw - Kejayaan yang gemilang
+Rafa - Bahagia
+Rafa - Kaya raya
+Rafif - Berahklak baik
+Raina - Maha perkasa
+Raissa - Yang beriman
+Ramaniya - Menyenangkan
+Rania - Bangsawan
+Ranjana - Bergembira
+Ransi - Berotak brilian
+Rashida - Keadilan
+Rasiyah - Yang tegar
+Ratana - Kristal
+Ratnama anakya - Bertahtakan permata
+Reseda - Aroma bunga
+Reseda - Sembuh
+Reyhan - Bunga yang aromanya wangi
+Reynard - Bijaksana
+Ridong - Prestasi dan andil besar
+Rika - Penguasa
+Riona - Santo
+Riordan - Penyair istana
+Rizqullah - Rezki dari Allah
+Roid - Pemimpin
+Roland - Terkenal sepanjang negeri
+Rongdan - Berwajah cantik
+Ronghui - Memahami mdari bahasaah
+Roselani - Bunga mawar surga
+Ruhakana - Pandai berdebat
+Ruhua - Muda dan cantik
+Rukmi - Emas
+Runako - Tampan
+Ruobai - Lurus seperti pohon cemara
+Sabiya - PagI hari
+Sadajiwa - Hidup selamanya
+Sadara -Terhormat
+Sadina - Pemilik kebaikan
+Sadira - Bintang
+Sadiya - Beruntung
+Sadubi - Budinya sangat luhur
+Saguna - Memiliki sufat baik
+Sakinah - Berwibawa
+Saktika - Kekuasaan spritual
+Salaga - Kuncup bunga
+Salimah - Yang terhindar dari kejelekan
+Salvia - Bibit
+Samana - Nafas hidup
+Samara - Benih pohon
+Samih - Lemah lembut
+Samira - Batu mulia
+Samitra - Berteman
+Sandya - Persatuan
+Sarila - Air terjun
+Sarkara - Madu
+Sashuang - Berani dan berjiwa pahlawan
+Saskia - Pelindung Manusia
+Sava - Ketenangan
+Selena - Bulan
+Selma - Pelindung suci
+Sewagati - Pengabdian
+Shabirah - Yang bersabar
+Shadiq - Tulus kecintaannya
+Shafira - Istimewa
+Shafiyah - Jernih
+Shahia - Mata yang indah
+Shanmimg - Pemandangan inmdah
+Shaosheng - Keluarga makmur
+Shatara - Payung
+Shatara - Ramah tamah
+Shbouh - Mulia
+Sherwin - Teman sejati
+Shilin - Intelek
+Shira - Nyanyian
+Shira - Kesejahteraan
+Shobir - Penyabar
+Shula - Bercahaya
+Shunnar - Menyenangkan
+Shuoxue - Berkemauan belajar sangat Giat
+Shuwan - Berhati mulia dan periang
+Sidra - Anak bintang
+Tabia - Berbakat
+Tabitha - KIjang
+Tadita - Pelari
+Tadya - Tertip
+Tahira - Perawan
+Taksa - Sayap
+Talidah - Klasik
+Talitha - Gadis muda belia
+Tamim - Orang yang kuat
+Tansy - Abadi Perempuan
+Tansy - Tekun
+Taoran - Bahagia dan riang
+Taqi - Bertaqwa
+Taraka - Bermata bintang
+Tasanee - Cantik
+Tauhid - Kemurnian iman
+Tawaddud - Cinta kasih
+Teripta - Kepuasan
+Tertia - Ketiga
+Tevy - Malaikat
+Thahir - Bersih
+Theobald - Pangeran
+Theona - Anugerah tuhan
+Tianba - Hebat tiada tara
+Tianlun Le - Keluarga bahagia
+Tianzhi - Bersumpah atas nama anak surga
+Tibra - Kuat dan keras
+Tobias - Tuhan maha sempurna
+Tong mu - Baik budi dan ramah
+Tongcai - Orang pintar
+Toshi-Shitas - Yang lebih muda
+Toyadi - Samudra
+Trina - Murni
+Tristan - Gagah berani
+Trygve - Pemenang yang gagah berani
+Tsabat - Keteguhan hati
+Tsabitah - Pemberrani
+Tsaqib - Tajam pemikiran
+Tsary - Hartawan
+Tuoli - Pemikir cerdik
+Tuyen - Malaikat
+Tyaga - Pemberian Tuhan
+Ubadah - Berbakti kepada Tuhan
+Uistean - Pandai berdebat
+Ulani - Riang gembira
+Ulfah - Pemberani
+Ulima - Kebijaksanaan
+Umeko - Sabar
+Ummiyah - Harapan
+Urdha - Mulia
+Vala - Yang terpilih
+Valerie - Kuat
+Vania - Anugerah yang sejati
+Vega - Bintang jauh
+Vegard - Mahligai
+Velma - Perlindungan
+Verda - Muda
+Verda - Segar
+Vincent - Penakluk
+Vondro - Wanita yang menarik
+Wadi - Yang tenang
+Wadud - Yang dicintai
+Wagindra - Bahasanya baik
+Waiduri - Permata
+Wajendra - Raja
+Wajih - Orang yang berkedudukan
+Walmond - Penguasa perkasa
+Wang Chunying - Berpengetahuan luas
+Wang Dunrui - Pintar dan cerdas
+Wang Wenxiao - Pintar dalam segala bidang
+Wang Xiaohui - Cerdas dan berwawasan
+Wang Xuemin - Punya pikiran luas
+Wang Xuesi - Belajar dan berpikir
+Wang Zeming - Berwawasan luas
+Wangting - Melestarikan kemakmuran keluarga
+Waradana - Hadiah yang bernilai
+Wasim - Rupawan
+Wastiqah - Yang benar
+Wastu - Berharta benda Lelaki
+Weida - Dilahirkan dengan berkualitas
+Weiheng - Bertekad bulat
+Wenhua - Berbudaya
+Widati - Berhati harum
+Wikrama - Keteguhan hati
+Wilasa - Kesenangan
+Winda - Pemburu
+Winna - Sahabat
+Winola - Sahabat yang menawan
+Winona - Anak tertua
+Wirasana - Bersikap pahlawan
+Wirasena - Kumpulan pemberani
+Wistara - Jelas dan pandai Lelaki
+Wursita - Terhormat Lelaki
+Xabat - Juruselamat
+Xianlun - Sopan dan cantik
+Xingguang Zhao - Disinari bintang mulia
+Xinxin - Berkembang dan maju
+Xionglue - Punya bakat bagus dan visi luas
+Yasykur - Bersyukur
+Yatha - Menurut
+Yelu - Pewaris keluarga makmur
+Yichang - Berkembang dan makmur
+Yihua - Berpenampilan menarik
+Yiran - Penuh minat dan selera
+Yizhen - Kemampuan belajar giat
+Yocelyn - Riang gembira
+Yodha - Pejuang besar
+Yogini - Petapa wanita
+Yongsheng - Punya ambisi jelas
+Yueyin - Sinar bulan terang
+Yuwen - Terkenal seluruh dunia
+Zahid - Rendah hati
+Zahirah - Bercahaya
+Zakiyah - Yang baik
+Zamira - Nyanyian
+Zebediah - Anugerah Tuhan
+Zhabyah - Kijang betina
+Zhafif - Cerdik
+Zhafir - Orang yang menang
+Zhang Bingjie - Sesuci kristal
+Zhang Jiangwu - Ramping
+Zhang Junda - Anggun dan sangat sopan
+Zhang Junqing - Tampan penuh vitalitas
+Zhang Xiuhuan - Tampan dan penuh sprit
+Zhang Xuemei - Halus seperti bunga zahib
+Zhaoyang Hong - Matahari terbit cerah
+Zhilin - Murid terkemuka
+Zhiping - Disukai Tuhan
+Zhishu - Terdidik dan baik budi
+Zhuting - Orang penting
+Ziskind - Anak yang manis
+Zita - Kekasih yang terhormat
+Zohar - Cahaya terang
